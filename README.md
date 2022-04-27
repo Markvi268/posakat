@@ -1,2 +1,0 @@
-# posakat
-posakat ry
